@@ -28,10 +28,9 @@ skip this, it asks you to sign in the first time a PinSay tool is called.
 - `/pinsay:queue [project]`: list the comments ready to apply. It changes nothing.
 - `/pinsay:apply [numbers]`: apply the comments with those numbers, or all ready ones when you give none.
 
-## Use an API key instead
+## Help
 
-If you cannot sign in from Claude Code, you can connect with a PinSay API key. See
-<https://pinsay.dev/docs/mcp.html>.
+Setup and troubleshooting: <https://pinsay.dev/docs/mcp.html>. Support: <https://pinsay.dev/support/>.
 
 ## Uninstall
 
