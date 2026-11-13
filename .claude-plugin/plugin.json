@@ -1,7 +1,7 @@
 {
   "name": "pinsay",
   "displayName": "PinSay",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Apply your team's PinSay website feedback from Claude Code: read the comments ready to apply, change the code, commit, and mark them applied.",
   "author": { "name": "PinSay", "url": "https://pinsay.dev" },
   "homepage": "https://pinsay.dev/docs/mcp.html",
